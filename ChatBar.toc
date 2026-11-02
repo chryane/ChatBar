@@ -1,0 +1,11 @@
+## Interface: 38002
+## Title: ChatBar
+## Notes: 在游戏界面显示聊天频道快捷条：点方格切换频道，聊天输入框内按 Tab 按条上顺序循环切换。|n斜杠命令：/cbar 打开设置。
+## Author: Raee
+## Version: 1.0.0
+## SavedVariables: ChatBarDB
+
+Localization.lua
+Core.lua
+Bar.lua
+Options.lua
